@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "title": "fry",
+      "status": true,
+      "id": "5c45a42b-2c29-4df4-b8ae-04a1714d949e"
+    },
+    {
+      "title": "Rain",
+      "status": false,
+      "id": "11bf0d10-95c2-4824-be6b-ff59c4ff6e71"
+    },
+    {
+      "title": "Pray",
+      "status": false,
+      "id": "be8f2669-e80f-467b-96bc-11157a1e55e3"
+    },
+    {
+      "title": "Cry",
+      "status": false,
+      "id": "5a1b4b0d-7e60-4629-a1fd-c7982d082320"
+    },
+    {
+      "title": "Fight",
+      "status": false,
+      "id": "29c16f32-6146-49d5-99e7-6857f2114f8c"
+    },
+    {
+      "title": "War",
+      "status": false,
+      "id": "b986d0f1-c35f-4ef1-b9f6-ec200021a9cb"
+    },
+    {
+      "title": "Murder",
+      "status": false,
+      "id": "09f08e33-6440-4d9a-88d2-2306083317e7"
+    },
+    {
+      "title": "Kill",
+      "status": false,
+      "id": "e652c338-967d-4bf8-bca3-09ff76a7edc5"
+    }
+  ]
+}
